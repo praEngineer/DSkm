@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Set up Knowledge Bases">1797d5e67310230021741c86fbf6a794</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2023-03-02 19:40:16">d0dd3cda1b99e1906c1036ef034bcb38</related_log_entry>
+        <status>1</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-03-02 19:07:06</sys_created_on>
+        <sys_id>1e3678921b99e1906c1036ef034bcb2d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="DSkm" source="x_dosny_dskb">27c4bcde1b59e1906c1036ef034bcb9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSkm">27c4bcde1b59e1906c1036ef034bcb9d</sys_scope>
+        <sys_update_name>gsw_status_of_content_1e3678921b99e1906c1036ef034bcb2d</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-03-02 19:40:16</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>
